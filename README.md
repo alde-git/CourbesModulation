@@ -4,3 +4,6 @@ Ce Jupyter Notebook permet de calculer des courbes de modulation √† partir de s√
 
 Click on the link below to open the Notebook directly in Binder</br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alde-git/CourbesModulation/main)
+
+Click on the link below to open the Development Notebook</br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alde-git/CourbesModulation/Dev)
